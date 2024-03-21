@@ -35,12 +35,12 @@ echo "   / \   |__  / | | |  _ \| ____|"
 echo "  / _ \    / /| | | | |_) |  _|  "
 echo " / ___ \  / /_| |_| |  _ <| |___ "
 echo "/_/   \_\/____|\___/|_| \_\_____|"
-echo    1.  FR -  France Central (Paris)
-echo    2.  DU -  Germany West Central (Frankfurt)
-echo    3.  IT -  Italy North (Milan)
-echo    4.  CH -  Switzerland North (Zurich)
-echo    5.  EU -  West Europe (Netherlands)
-echo    6.  UK - UK South (London)
+echo    1.  FR -  France Central Paris
+echo    2.  DU -  Germany West Central Frankfurt
+echo    3.  IT -  Italy North Milan
+echo    4.  CH -  Switzerland North Zurich
+echo    5.  EU -  West Europe Netherlands
+echo    6.  UK - UK South London
 echo    7.  US -  East US
 echo    8.  JP -  Japan East
 echo    9.  AU -  Australia
