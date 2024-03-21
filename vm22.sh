@@ -35,10 +35,6 @@ echo "   / \   |__  / | | |  _ \| ____|"
 echo "  / _ \    / /| | | | |_) |  _|  "
 echo " / ___ \  / /_| |_| |  _ <| |___ "
 echo "/_/   \_\/____|\___/|_| \_\_____|"
-
-
-
-
 echo    1.  FR -  France Central (Paris)
 echo    2.  DU -  Germany West Central (Frankfurt)
 echo    3.  IT -  Italy North (Milan)
